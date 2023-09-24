@@ -13,4 +13,9 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 - 📫 How to reach me: instagram @aul_123
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i really looove matcha!
-
+<p align="left">
+<a href="https://github.com/sitiaulia54">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sitiaulia54&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
